@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# submission and its archive
+submission.csv
+submission.csv.zip
+tabular-playground-series-sep-2022.zip
